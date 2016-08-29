@@ -1,0 +1,3 @@
+agentName,collectorHost,collectorPort,executable,path,cmdLine
+DefaultAppPool_TestDotNet,192.168.186.172,9998,w3wp.exe,*,"-ap ""DefaultAppPool"""
+TestAppPool_TestDotNet,192.168.186.172,9998,w3wp.exe,"C:\windows\system32\inetsrv\","-ap ""TestAppPool"""
